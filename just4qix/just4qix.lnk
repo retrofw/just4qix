@@ -1,0 +1,4 @@
+title=Just4Qix
+description=Just4Qix port
+exec=/home/retrofw/games/just4qix/just4qix.elf
+clock=600
