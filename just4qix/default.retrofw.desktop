@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Just4Qix
+Comment=Just4Qix port
+Exec=just4qix.dge
+Icon=just4qix
+Categories=games;
+Terminal=false
+Type=Application
+StartupNotify=true
