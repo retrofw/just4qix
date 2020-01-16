@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Just4Qix
+Comment=Just4Qix port
+Exec=just4qix.dge
+Icon=just4qix
+Categories=games;
+X-OD-Manual=just4qix.man.txt
+Terminal=false
+Type=Application
+StartupNotify=true
